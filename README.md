@@ -1,3 +1,5 @@
+card designed using styled-components because it allowed me to have more controle over the different boxes composing the main box.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
